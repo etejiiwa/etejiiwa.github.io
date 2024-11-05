@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://etejiiwa.github.io/EWB/sitemap_index.txt
+Sitemap: https://etejiiwa.github.io/KnX/sitemap_index.txt
+Sitemap: https://etejiiwa.github.io/Xsa/sitemap_index.txt
+Sitemap: https://etejiiwa.github.io/ymM/sitemap_index.txt
